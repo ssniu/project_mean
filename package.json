@@ -1,0 +1,28 @@
+{
+  "name": "mymeanblogapp",
+  "version": "1.0.0",
+  "description": "blog by mean",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "angular2-jwt": "^0.2.3",
+    "bcryptjs": "*",
+    "bluebird": "^3.5.1",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "^3.0.0"
+  },
+  "keywords": [
+    "mean",
+    "blog"
+  ],
+  "author": "ssniu",
+  "license": "ISC"
+}
